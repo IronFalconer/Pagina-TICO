@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to bottom, purple, violet 50%, purple);
+    
+}
+.inicial{
+    border: 2px solid black;
+    padding-left: 2%;
+    padding-bottom: .5%;
+    background-color: aquamarine;
+    margin-left: 12%;
+    margin-top: -50%;
+}
+.menu{
+    background-color: aquamarine;
+    border: 2px solid black;
+    margin-right: 89%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: smaller;
+    margin-top: -100px; 
+    padding-bottom: 50%;
+    padding-left: .5%;
+}
+.titulo1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+}

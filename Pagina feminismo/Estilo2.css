@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(to bottom, purple, violet 50%, purple);
+    
+}
+.title1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+}
