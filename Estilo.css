@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to bottom, rgb(56, 56, 255), purple 50%,rgba(255, 0, 191, 0.637)) ;
+}
+.bloque{
+    border: 2px solid black;
+    margin-top: 5px;
+    background-color: aquamarine;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+.intro{
+    border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    background-color: aquamarine;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+.respuesta{
+    border: 2px solid black;
+    margin-left: 1%;
+    margin-right: 90%;
+    padding-left: 1.2%;
+    padding-right: 1%;
+    background-color: blanchedalmond;
+}
+.respuesta:hover{
+    background-color: red;
+}
